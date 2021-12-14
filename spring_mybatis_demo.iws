@@ -7,10 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4feb0b08-bb10-451d-8c7d-f2807fb2d9d4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_mybatis_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_mybatis_demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_mybatis_demo.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/spring_mybatis_demo.ipr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_mybatis_demo.iws" beforeDir="false" afterPath="$PROJECT_DIR$/spring_mybatis_demo.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +159,7 @@
       <updated>1639435892031</updated>
       <workItem from="1639435893834" duration="352000" />
       <workItem from="1639436301567" duration="90000" />
-      <workItem from="1639436464693" duration="289000" />
+      <workItem from="1639436464693" duration="1799000" />
     </task>
     <servers />
   </component>
@@ -238,9 +235,9 @@
       <screen x="0" y="0" width="1845" height="1080" />
     </state>
     <state x="402" y="115" key="SettingsEditor/0.0.1845.1080@0.0.1845.1080" timestamp="1639436610361" />
-    <state x="590" y="286" width="664" height="508" key="find.popup" timestamp="1639436744873">
+    <state x="590" y="286" width="664" height="508" key="find.popup" timestamp="1639438011263">
       <screen x="0" y="0" width="1845" height="1080" />
     </state>
-    <state x="590" y="286" width="664" height="508" key="find.popup/0.0.1845.1080@0.0.1845.1080" timestamp="1639436744873" />
+    <state x="590" y="286" width="664" height="508" key="find.popup/0.0.1845.1080@0.0.1845.1080" timestamp="1639438011263" />
   </component>
 </project>
